@@ -6,5 +6,5 @@
 ## JAVA를 이용한  블록체인 간단 구현
 - Block 클래스
 - BlockChain (MAIN)
-- StringUTil (해쉬 코드 만드는 )
+- StringUTil (해쉬 코드 만드는 부분)
 
